@@ -1,0 +1,3 @@
+const useDesktop = () => {
+  return "dekstop";
+};
